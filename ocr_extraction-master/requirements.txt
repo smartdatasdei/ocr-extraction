@@ -1,0 +1,14 @@
+flask==1.1.1
+pandas==0.25.3
+numpy==1.17.4
+flask_csv==1.1.0
+requests==2.22.0
+regex==2019.11.1
+wand==0.5.7
+pillow==6.2.1
+opencv-python==4.1.1.26
+requests==2.22.0
+azure-cognitiveservices-language-textanalytics==0.2.0
+azure-cognitiveservices-vision-computervision==0.5.0
+azure-storage-blob==12.0.0
+azure-servicebus==0.50.1
